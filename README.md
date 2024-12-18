@@ -48,6 +48,7 @@ L’objectif principal est de proposer une segmentation des pays en fonction de 
 
 4. **Réduction des dimensions** :
    - Application de l'**Analyse en Composantes Principales (ACP)** pour réduire la complexité.
+   - Rotation VARIMAX pour améliorer l'interprétabilité des dimensions sous-jacentes des données
    - Création du cercle des corrélations et analyse des projections des pays.
 
 5. **Clustering** :
@@ -87,12 +88,31 @@ L’objectif principal est de proposer une segmentation des pays en fonction de 
 - Utilisation d’analyses multivariées pour identifier les corrélations significatives.
 
 ### Clustering et réduction des dimensions
-- Réalisation d’une **ACP** et analyse des projections des individus.
+- Réalisation d’une **ACP** puis rotation **VARIMAX** avant analyse des projections des individus.
 - Implémentation de **CAH** et **K-Means** pour segmenter les pays.
 
 ### Visualisation et storytelling avec les données
-- Présentation des résultats sous forme de graphiques clairs et intuitifs.
-- Utilisation d'un langage adapté pour un auditoire non technique.
+**1. Présentation des résultats sous forme de graphiques clairs et intuitifs**
+
+- Utiliser des graphiques simples pour rendre les résultats compréhensibles.
+
+![Image 1](https://github.com/user-attachments/assets/4a5a4d73-0f62-4fc6-9ecd-2a341734da3f)
+
+**2. Utilisation d'un langage adapté pour un auditoire non technique**
+
+- Simplifier les termes techniques pour rendre les données accessibles à tous.
+
+![Image 2](https://github.com/user-attachments/assets/65763c10-ca42-4391-8a88-0519f5182a1c)
+
+**Exemple supplémentaire :**
+
+
+
+![Image 3](https://github.com/user-attachments/assets/8c5b73c7-c58d-4647-9ce2-7988d26080f8)
+![Image 4](https://github.com/user-attachments/assets/528ef3d9-c151-4478-8fab-507f9f180a3f)
+
+
+
 
 ---
 
