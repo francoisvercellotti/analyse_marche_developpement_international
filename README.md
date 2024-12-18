@@ -4,6 +4,7 @@
   <img src="https://github.com/user-attachments/assets/6938eea5-d323-4d73-bef0-c592ac3dcee7" alt="Aperçu du tableau de bord" width="600"/>
 </div>
 
+---
 
 Dans le cadre de ma mission en tant que Data Analyst pour l’entreprise **La Poule Qui Chante**, mon objectif est de réaliser une étude de marché afin d’identifier les pays cibles pour l’exportation de nos poulets biologiques.
 
