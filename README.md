@@ -1,7 +1,7 @@
 # Analyse de marché pour l'exportation de poulets biologiques
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/6938eea5-d323-4d73-bef0-c592ac3dcee7" alt="Aperçu du tableau de bord" width="400"/>
+  <img src="https://github.com/user-attachments/assets/6938eea5-d323-4d73-bef0-c592ac3dcee7" alt="Aperçu du tableau de bord" width="600"/>
 </div>
 
 
