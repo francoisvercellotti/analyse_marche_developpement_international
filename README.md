@@ -100,6 +100,8 @@ L’objectif principal est de proposer une segmentation des pays en fonction de 
 
 ---
 ## Conclusion
-Ce projet m'a permis de développer des compétences avancées en analyse multivariée, clustering, et communication de données stratégiques. Je suis confiant dans la pertinence des recommandations proposées pour guider l'expansion internationale de La Poule qui Chante.
+
+Ce projet m'a permis de développer des compétences avancées en **analyse multivariée**, **clustering**, et **communication de données stratégiques**. Je suis confiant dans la pertinence des recommandations proposées pour guider l’expansion internationale de **La Poule Qui Chante**.
+
 ---
 
