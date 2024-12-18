@@ -1,5 +1,10 @@
 # Analyse de marché pour l'exportation de poulets biologiques
 
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/6938eea5-d323-4d73-bef0-c592ac3dcee7" alt="Aperçu du tableau de bord" width="800"/>
+</div>
+
+
 Dans le cadre de ma mission en tant que Data Analyst pour l’entreprise **La Poule Qui Chante**, mon objectif est de réaliser une étude de marché afin d’identifier les pays cibles pour l’exportation de nos poulets biologiques.
 
 L’entreprise souhaite étendre son activité à l’international, et cette analyse servira de base pour orienter les décisions stratégiques de la direction.
