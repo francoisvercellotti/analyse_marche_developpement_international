@@ -73,7 +73,7 @@ L’objectif principal est de proposer une segmentation des pays en fonction de 
 
 ---
 
-## Compétences mobilisées
+## Compétences Acquises
 
 ### Gestion de projet
 - Organisation des étapes clés pour garantir une livraison dans les délais.
